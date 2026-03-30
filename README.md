@@ -143,6 +143,7 @@ jupyter notebook models.ipynb
 ### 2. Model Training
 
 - Traditional ML (PySpark)
+
     * Logistic Regression
     * Decision Tree
     * Random Forest
@@ -204,12 +205,19 @@ from sklearn.utils.class_weight import compute_class_weight
 
 
 ## Project Structure
+
 ├── models.ipynb
+
 ├── images/
+
 │   ├── correlation_heatmap.png
+
 │   ├── roc_curve.png
+
 ├── README.md
+
 └── requirements.txt
+
 
 
 ## License
